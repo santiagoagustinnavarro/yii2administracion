@@ -1,0 +1,8 @@
+Inciar automaticamente xammp
+
+
+1- copiar acceso directo xammp-control.exe en :
+
+2- "C:\Users\[Usuario]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+
+3-configurar xammp los servicios para que arranque automaticamente
